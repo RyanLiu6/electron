@@ -4,6 +4,7 @@
   "description": "Food Decision Utility use Yelp Fusion",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"No Tests\""
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RyanLiu6/food/issues"
   },
-  "homepage": "https://github.com/RyanLiu6/food#readme"
+  "homepage": "https://github.com/RyanLiu6/food#readme",
+  "devDependencies": {
+    "electron": "^5.0.2"
+  }
 }
