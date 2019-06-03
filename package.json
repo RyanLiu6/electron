@@ -1,0 +1,19 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "Food Decision Utility use Yelp Fusion",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"No Tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanLiu6/food.git"
+  },
+  "author": "ryanliu6",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/RyanLiu6/food/issues"
+  },
+  "homepage": "https://github.com/RyanLiu6/food#readme"
+}
